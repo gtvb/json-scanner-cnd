@@ -1,0 +1,7 @@
+{
+    "name": "Gabriel",
+    "age": 19,
+    "is_male": true,
+    "has_car": false,
+    "has_n_animals": null
+}
